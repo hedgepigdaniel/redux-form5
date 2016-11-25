@@ -2,6 +2,31 @@
   "name": "redux-form-5-stub",
   "version": "0.1.1",
   "description": "Stub module for using redux-form v5. Useful during migration from v5 to v6",
+  "author": {
+    "name": "Jens Fredskov",
+    "email": "jensfredskov@protonmail.ch"
+  },
+  "homepage": "https://github.com/jsfr/redux-form5",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsfr/redux-form5.git"
+  },
+  "maintainers": [
+    {
+      "name": "Jens Fredskov",
+      "email": "jensfredskov@protonmail.ch"
+    }
+  ],
+  "contributors": [],
+  "bugs": {
+    "url": "http://github.com/jsfr/redux-form5/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jsfr/redux-form5/blob/master/license.txt"
+    }
+  ],
   "dependencies": {
     "redux-form": "^5.3.3"
   }
