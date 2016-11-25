@@ -1,6 +1,6 @@
 {
   "name": "redux-form-5-stub",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Stub module for using redux-form v5. Useful during migration from v5 to v6",
   "author": {
     "name": "Jens Fredskov",
