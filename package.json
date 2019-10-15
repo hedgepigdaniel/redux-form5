@@ -6,6 +6,7 @@
     "name": "Jens Fredskov",
     "email": "jensfredskov@protonmail.ch"
   },
+  "types": "index.d.ts",
   "homepage": "https://github.com/jsfr/redux-form5",
   "repository": {
     "type": "git",
@@ -28,6 +29,7 @@
     }
   ],
   "dependencies": {
+    "@types/redux-form": "^5.0.0",
     "redux-form": "^5.3.3"
   }
 }
